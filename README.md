@@ -55,6 +55,6 @@
 - [Como escrever um README incrível no seu Github](https://www.alura.com.br/artigos/escrever-bom-readme)
 
   ## 📽️ Video de seu funcionamento
-  - [youtube](https://youtu.be/uVr5DX-Wqjs)
+  - [youtube](https://youtu.be/JTQqnV2APUg)
 
 <img src="assets/Captura de tela 2025-02-15 133237.png">
